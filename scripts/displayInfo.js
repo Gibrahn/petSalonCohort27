@@ -34,6 +34,6 @@ function displayPetSalonInfo(){
 //         `;
 //     }
 // }
-// displayPetSalonInfo();
+displayPetSalonInfo();
 // displayPetInfo();
 // display pet salon info in the footer section of the html
